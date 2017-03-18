@@ -1,4 +1,4 @@
-# 1099-with-various-Tax-Entities
+# W9 Tracking and 1099 Status
 Simple customization that allows tracking W9 and 1099 tax entity statuses like C-Corporation, Estate, Government, LLC - Taxed as C-Corp, S Corp, etc.
 
 Quick Start
@@ -16,4 +16,6 @@ Quick Start
 
 ### Usage
 
-1. 
+Naviage to Vendors (AP.30.30.00) and you will see W9 tracking and 1099 status information on the General Info tab as shown below:
+![Screenshot](/_ReadMeImages/VendorScrWithW9TrackingAnd1099Status.png)
+
